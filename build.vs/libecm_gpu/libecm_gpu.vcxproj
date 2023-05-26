@@ -97,7 +97,7 @@
     </ClCompile>
     <Lib />
     <CudaCompile>
-      <CodeGeneration>compute_50,sm_50</CodeGeneration>
+      <CodeGeneration>compute_86,sm_86</CodeGeneration>
     </CudaCompile>
     <CudaCompile>
       <PtxAsOptionV>true</PtxAsOptionV>
@@ -135,7 +135,7 @@
       <Defines>_WIN64</Defines>
     </YASM>
     <CudaCompile>
-      <CodeGeneration>compute_50,sm_50</CodeGeneration>
+      <CodeGeneration>compute_86,sm_86</CodeGeneration>
       <PtxAsOptionV>true</PtxAsOptionV>
       <AdditionalCompilerOptions>
       </AdditionalCompilerOptions>
@@ -206,7 +206,7 @@
       <Defines>_WIN64</Defines>
     </YASM>
     <CudaCompile>
-      <CodeGeneration>compute_50,sm_50</CodeGeneration>
+      <CodeGeneration>compute_86,sm_86</CodeGeneration>
     </CudaCompile>
     <CudaCompile>
       <PtxAsOptionV>true</PtxAsOptionV>

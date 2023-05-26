@@ -181,7 +181,7 @@
       <StackCommitSize>65536</StackCommitSize>
     </Link>
     <CudaCompile>
-      <CodeGeneration>compute_50,sm_50</CodeGeneration>
+      <CodeGeneration>compute_86,sm_86</CodeGeneration>
       <AdditionalCompilerOptions>
       </AdditionalCompilerOptions>
       <TargetMachinePlatform>64</TargetMachinePlatform>
@@ -222,7 +222,7 @@
       <StackCommitSize>65536</StackCommitSize>
     </Link>
      <CudaCompile>
-      <CodeGeneration>compute_50,sm_50</CodeGeneration>
+      <CodeGeneration>compute_86,sm_86</CodeGeneration>
       <AdditionalCompilerOptions>
       </AdditionalCompilerOptions>
       <TargetMachinePlatform>64</TargetMachinePlatform>
